@@ -1,5 +1,5 @@
 {
-  "name": "maatwebsite/excel",
+  "name": "febrianrz/excel",
   "description": "Supercharged Excel exports in Laravel",
   "license": "MIT",
   "keywords": [
@@ -15,6 +15,10 @@
     {
       "name": "Maatwebsite.nl",
       "email": "patrick@maatwebsite.nl"
+    },
+    {
+      "name": "Febrian Reza",
+      "email": "febrianrz@gmail.com"
     }
   ],
   "require": {
